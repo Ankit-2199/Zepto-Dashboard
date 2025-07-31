@@ -28,5 +28,5 @@ Brief - The Zepto Grocery Dataset contains detailed information about customer o
 -Assess the geographic distribution of sales different locations.
 -Provide a comprehensive view of all key metrics broken down by different outlet types.
 
-7. Screenshot of Dashboard
+6. Screenshot of Dashboard
 https://github.com/Ankit-2199/Zepto-Dashboard/blob/main/Snapshot_Zepto_Dashboard.png
